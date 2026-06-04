@@ -1,3 +1,6 @@
+# Problem: Two Sum
+# Difficulty: Easy
+
 from typing import List
 
 class Solution:
